@@ -6,7 +6,7 @@ I'm Leen Hassan, a first-semester student passionate about Health Informatics ðŸ
 
 ### Endocrine System
 
-In [my blog](Blog_Context.md), I take you on a journey into the captivating realm of the Endocrine System
+In [my blog](Blog.md/Blog_Context.md), I take you on a journey into the captivating realm of the Endocrine System
 
 ### Automation
 
