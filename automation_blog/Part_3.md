@@ -122,3 +122,5 @@ The current script lacks extensive error handling. Enhancing error handling and 
 In conclusion, the automation solution presented here is a valuable tool for simplifying the blogging process on GitHub Pages. While it's not perfect, it has proven to be useful for bloggers who want to streamline their workflow and reduce manual overhead. By automating the creation and publishing of blog posts, you can focus on what truly matters: creating engaging content for your audience.
 
 Happy blogging! 🚀📝
+
+### [Click here to go back to README](https://leenhassan.github.io/Endocrine_blog/)
