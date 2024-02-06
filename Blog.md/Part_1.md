@@ -49,7 +49,7 @@ The dynamic interplay between stress and cortisol takes center stage in the thea
 Cortisol, the stress hormone, is a crucial player in the body's response to stress. However, chronic exposure to elevated cortisol levels due to prolonged stress can have profound effects on physical and mental health. Understanding the multifaceted roles of cortisol in metabolism, immune function, cardiovascular health, and cognitive function underscores the importance of stress management for overall well-being. As we navigate the demands of modern life, adopting strategies to reduce stress and promote cortisol balance becomes imperative. Regular exercise, quality sleep, mindfulness practices, and a healthy diet are key components of a holistic approach to controlling cortisol levels and maintaining health. By comprehending the intricate dance between stress, cortisol, and health, we empower ourselves to make informed lifestyle choices that pave the path to long-term wellness. 🌟
 
 ### [Part 2](Part_2.md) 📚
-### [Go back to READ ME](README.md)
+### [Go back to READ ME](https://leenhassan.github.io/Endocrine_blog/)
 
 ### Sources 📖
 
