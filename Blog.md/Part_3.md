@@ -93,7 +93,7 @@ To master these hormonal plot twists, we've got a playbook:
 Treating endocrine system disorders is like conducting an orchestra. Early detection, tailored treatment, and consistent self-care are the symphony's notes. Consult with healthcare professionals, stay informed, and embrace a holistic approach to unlock optimal health and hormonal harmony. 🎶🩺
 
 ### [Part 4](Part_4.md) 📖
-### [Click here to go back to READ ME](README.md)
+### [Click here to go back to READ ME](https://leenhassan.github.io/Endocrine_blog/)
 
 Sources: 📚
 - [Healthline](https://www.healthline.com/health/the-endocrine-system)
