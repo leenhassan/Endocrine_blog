@@ -123,4 +123,6 @@ In conclusion, the automation solution presented here is a valuable tool for sim
 
 Happy blogging! 🚀📝
 
+### [Click here to go to part 4](Part_4.md)
+### [Click here to go back to part 3](Part_3.md)
 ### [Click here to go back to README](https://leenhassan.github.io/Endocrine_blog/)
