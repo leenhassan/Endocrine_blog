@@ -29,4 +29,5 @@ This automation project addresses the challenges and inefficiencies of manually 
 
 ![Automation Gif](insert_gif_link_here)
 
+### [Click here to go to part 2](Part_2.md)
 ### [Click here to go back to README](https://leenhassan.github.io/Endocrine_blog/)
