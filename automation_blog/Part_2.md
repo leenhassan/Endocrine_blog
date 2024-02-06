@@ -92,4 +92,6 @@ With the right tools and strategies in place, you can enjoy the power of GitHub 
 
 ![Happy Blogging Gif](insert_happy_blogging_gif_link_here)
 
+### [Click here to go to part 3](Part_3.md)
+### [Click here to go back to part 2](Part_2.md)
 ### [Click here to go back to README](https://leenhassan.github.io/Endocrine_blog/)
