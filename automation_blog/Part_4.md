@@ -73,3 +73,5 @@ Bloggers who leverage automation gain a competitive advantage. They can publish 
 In conclusion, our automation solution offers substantial time and resource savings, making it economically beneficial for bloggers over the next five years. It simplifies the blogging process, reduces errors, and enhances efficiency. By embracing automation, bloggers can invest more in their content, ultimately reaping the rewards of increased productivity and audience engagement.
 
 Happy blogging! 🚀📝
+
+### [Click here to go back to README](https://leenhassan.github.io/Endocrine_blog/)
