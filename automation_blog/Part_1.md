@@ -28,3 +28,5 @@ The automation script prompts users for essential information, such as the blog 
 This automation project addresses the challenges and inefficiencies of manually managing a GitHub Pages site for blogging. It recognizes GitHub's power as a platform for hosting and collaborating on content but acknowledges that its features, while powerful, can also be daunting and time-consuming. Through automation, this project aims to bridge the gap, making it easier for content creators to leverage GitHub Pages for their blogging needs without being bogged down by technical details. Simplify your blogging journey with automation! 🚀📝
 
 ![Automation Gif](insert_gif_link_here)
+
+### [Click here to go back to README](https://leenhassan.github.io/Endocrine_blog/)
