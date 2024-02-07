@@ -2,7 +2,7 @@
 
 Blogging on GitHub Pages can be a powerful way to share your thoughts and ideas with the world. However, the manual process of creating and publishing blog posts can be time-consuming and repetitive. This comprehensive guide explores a robust solution that leverages automation to streamline the blogging process on GitHub Pages.
 
-![Automated Robot Gif](insert_gif_link_here)
+![Automated Robot Gif](https://cdn.dribbble.com/users/6261056/screenshots/14660465/media/a608639b24d21d75eae965deb1a9f797.gif)
 
 ## The Blogger's Dilemma 🤔
 As a passionate blogger, you want to focus on creating content and engaging with your audience, not getting bogged down by tedious tasks. Manually crafting and publishing blog posts on GitHub Pages can be a hurdle, especially when you want to maintain a consistent format and naming convention.
@@ -101,7 +101,7 @@ This function orchestrates the entire process. It prompts you to enter the title
 ## Making It Work for You 🛠️
 When you run the script, it's a straightforward experience. You enter the title of your blog post, and the script takes care of the rest. The entire process is automated and typically takes just a few seconds, allowing you to focus on what you do best: blogging!
 
-![Automation Process Gif](insert_gif_link_here)
+![Automation Process Gif](https://images.squarespace-cdn.com/content/v1/5e9e61184a2e5f4b613d5853/1589203576376-GHZIU26R76M6WNU9KMZH/RPA.gif)
 
 ## Embracing Imperfection and Looking Ahead 🚧
 It's essential to recognize that while this automation solution is valuable, it's not perfect, and there's always room for improvement:
